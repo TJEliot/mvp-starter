@@ -18,27 +18,36 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  TipJar: the Least Secure CryptoCurrency
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  Want to reward your classmates for helping you out, but don't want to spend real money? Use TipJar!
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  TipJar gives you a way to give your friends fake internet points whenever they help you. It also keeps track of everyone's tips, and displays your total. The more you help others, the more you can reward others for helping you!
 
 ## Problem ##
   > Describe the problem your product solves.
+  People need a persistent way to keep track of who is the most helpful of their classmates.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  TipJar lets you send tips to people who help you out, and limits the amount you can tip based on how much you've been tipped, so there won't be any spamming.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  TipJar: fake internet points for the modern age. Motivate your workers by giving them things without any real value!
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Load the page, type in your name, and send your first tip!
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  I love watching my score go up! 
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  Open up TipJar, show someone how much you appreciate them by sending them a tip, help others, and watch your tips start rolling in!
