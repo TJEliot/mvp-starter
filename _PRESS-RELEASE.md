@@ -22,11 +22,11 @@ Once the project moves into development, the press release can be used as a touc
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-  Want to reward your classmates for helping you out, but don't want to spend real money? Use TipJar!
+  Want to reward your classmates for helping you out, but don't want to spend real money? Use Fake Internet Points!
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-  Fake Internet Points gives you a way to give your friends fake internet points whenever they help you. It also keeps track of everyone's tips, and displays your total. The more you help others, the more you can reward others for helping you!
+  Fake Internet Points gives you a way to give your friends fake internet points whenever they help you. It also keeps track of everyone's points, and displays your total. The more you help others, the more you can reward others for helping you!
 
 ## Problem ##
   > Describe the problem your product solves.
@@ -34,7 +34,7 @@ Once the project moves into development, the press release can be used as a touc
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
-  FIP lets you send tips to people who help you out, and limits the amount you can tip based on how much you've been tipped, so there won't be any spamming.
+  FIP lets you send points to people who help you out, and limits the amount you can send based on how much you've been sent, so there won't be any spamming.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
@@ -46,8 +46,8 @@ Once the project moves into development, the press release can be used as a touc
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-  I love watching my score go up! 
+  I love watching my score go up! It really motivates me to help out my coworkers.
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
-  Open up FIP, show someone how much you appreciate them by sending them a tip, help others, and watch your tips start rolling in!
+  Open up FIP, show someone how much you appreciate them by sending them points, then help others and watch your points start rolling in!

@@ -8,7 +8,7 @@ var connection = mysql.createConnection({
 });
 
 var selectAll = function(callback) {
-  connection.query('SELECT * FROM items', function(err, results, fields) {
+  connection.query('SELECT * FROM users ORDER BY username', function(err, results, fields) {
     if(err) {
       callback(err, null);
     } else {

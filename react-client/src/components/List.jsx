@@ -3,9 +3,9 @@ import ListItem from './ListItem.jsx';
 
 const List = (props) => (
   <div>
-    <h4> List Component </h4>
-    There are { props.items.length } items.
-    { props.items.map(item => <ListItem item={item}/>)}
+    <h2>Scoreboard</h2>
+    <h4 className="scoreList">Username Balance Sent Received</h4>
+    { props.items.map(item => <ListItem item={item} />)}
   </div>
 )
 
