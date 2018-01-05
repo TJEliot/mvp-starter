@@ -5,6 +5,19 @@ h1, #tagline, h3, h2, h4, .scoreList {
     1px -1px 0 hsl(0,50%,80%),
     -1px 1px 0 hsl(0,50%,80%),
     1px 1px 0 hsl(0,50%,80%);
+
+  transform: scale(1);
+  transition: transform 1s ease-out;
+}
+
+#ourTitle, .scoreList, h3, h2, h4, #tagline, button, input, hr{
+  transform: scale(1);
+  transition: transform 3s ease-out;
+}
+
+#ourTitle:hover, .scoreList:hover, h3:hover, h2:hover, h4:hover, #tagline:hover, button:hover, input:hover, hr:hover {
+  transform: scale(1.5);
+  transition: transform 0.5s;
 }
 
 #container {
