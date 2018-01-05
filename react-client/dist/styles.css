@@ -10,6 +10,11 @@ h1, #tagline, h3, h2, h4, .scoreList {
   transition: transform 1s ease-out;
 }
 
+/*#ourTitle:hover {
+  transform: scale(45);
+  transition: transform 45s ease-out;
+}*/
+
 #ourTitle, .scoreList, h3, h2, h4, #tagline, input, hr{
   transform: scale(1);
   transition: transform 3s ease-out;
@@ -24,6 +29,16 @@ button {
   transform: scale(1.5);
   transition: transform 0.5s;
 }
+
+/*#ourTitle:hover {
+  transform: scale(15);
+  transition: transform 15s;
+}
+
+#ourTitle {
+  transform: scale(1);
+  transition: 5s ease-out;
+}*/
 
 #container {
   width: 150px;

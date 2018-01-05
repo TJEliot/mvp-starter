@@ -42,7 +42,7 @@ Once the project moves into development, the press release can be used as a touc
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
-  Load the page, type in your name, and send your first tip!
+  Load the page, type in your name, and send your friends tips!
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
