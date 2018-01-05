@@ -64,6 +64,7 @@ class App extends React.Component {
       <h3>Welcome, {ourUser}</h3>
       <h3>You have {score} Fake Internet Points</h3>
       <input type="text" id="target" placeholder="Who do you want thank?"></input>
+      <p> </p>
       <button id="sender">Express Gratitude</button>
       <hr/>
       <List items={this.state.items}/>
